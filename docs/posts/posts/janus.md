@@ -17,8 +17,9 @@ Hall thrusters are a form of in-space electric propulsion in which a plasma disc
 
 ## Links
 
-- [Journal article](https://rdcu.be/dVmim) — outlining the predictive modeling and uncertainty quantification framework
+- [Original article](https://rdcu.be/dVmim) — outlining the predictive modeling and uncertainty quantification framework
 - [`hallmd` code](https://www.github.com/JANUS-Institute/HallThrusterPEM.git) — repository for the Hall thruster modeling and analysis tools
+- [Article on latest progress](https://arxiv.org/abs/2507.08113) - a summary of the current status of the project and recent results (2025)
 
 ## Project goals
 
@@ -47,5 +48,6 @@ We have made several suggestions for improving the model, including revisions to
 - **December 2023** — first release of the [`hallmd`](https://www.github.com/JANUS-Institute/HallThrusterPEM.git) code repository, which provides an API for extending models and the testing framework.
 - **May 2024** — completed the uncertainty quantification analysis of the Hall thruster model, including Bayesian inference, sensitivity analysis, and Monte Carlo.
 - **September 2024** — published the first set of results in the Journal of Electric Propulsion.
+- **July 2025** — pre-print released on arXiv summarizing extension of the framework to the H9 thruster and a new anomalous transport model.
 
-Further details can be found in the linked journal article.
+Further details can be found in the linked journal articles.

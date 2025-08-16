@@ -10,6 +10,12 @@ experiences:
     year: Current
     description: Bayesian methods, uncertainty quantification, Hall thrusters
     logo: um-logo.svg
+  - company: NASA Jet Propulsion Laboratory
+    location: Pasadena, CA
+    role: Electric propulsion intern
+    year: 2025
+    description: Hall thruster simulations, reduced-order modeling, data-driven acceleration
+    logo: nasa-logo.svg
   - company: NASA Glenn Research Center
     location: Cleveland, OH
     role: Electric propulsion intern
@@ -35,6 +41,15 @@ experiences:
     description: Robotic navigation, computer vision, accessibility constraint mapping
     logo: vt-logo.svg
 news:
+  - date: July 2025
+    event: Article pre-print available on arXiv
+    link: https://arxiv.org/abs/2507.08113
+    description: entitled "Uncertainty quantification of a multi-component Hall thruster model at varying facility pressures."
+  - date: March 2025
+    event: Presentation at SIAM CSE
+    link: https://www.siam.org/conferences-events/past-event-archive/cse25/
+    description: >
+      in Fort Worth, TX on work entitled "Adaptive Surrogate Modeling of Coupled Hall Thruster Plasma and Plume Simulations."
   - date: Sep 2024
     event: Article published in the Journal of Electric Propulsion
     link: https://rdcu.be/dVmim
