@@ -1,5 +1,5 @@
 # :link: Personal website 
-Check out the [website](https://eckelsjd.github.io/website/) to view my research, past projects, and current resume.
+Check out the [website](https://eckelsjd.github.io/) to view my research, past projects, and current resume.
 
 # :page_facing_up: Research interests 
 

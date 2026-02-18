@@ -1,4 +1,3 @@
 - Reduced-order modeling toolkit (romtools)
-- IEPC 2025
 - post about plotting utilities and data visualization
-- JAP PEM v1 paper and JAP sticking coeff paper
+- post about zotero,obsidian,dropbox workflow

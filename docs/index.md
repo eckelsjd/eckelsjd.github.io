@@ -41,10 +41,18 @@ experiences:
     description: Robotic navigation, computer vision, accessibility constraint mapping
     logo: vt-logo.svg
 news:
-  - date: July 2025
-    event: Article pre-print available on arXiv
-    link: https://arxiv.org/abs/2507.08113
+  - date: Oct 2025
+    event: Article published in Journal of Applied Physics
+    link: https://doi.org/10.1063/5.0283796
     description: entitled "Uncertainty quantification of a multi-component Hall thruster model at varying facility pressures."
+  - date: Oct 2025
+    event: Article published in Journal of Propulsion and Power
+    link: https://arc.aiaa.org/doi/10.2514/1.B39954
+    description: entitled "Simulation of vacuum chamber pressure distributions with uncertainty quantification."
+  - date: Sep 2025
+    event: Presentation at IEPC
+    link: https://doi.org/10.7302/27476
+    description: in London, UK on work entitled "Data-driven acceleration of Hall thruster simulations with a sliding-window method."
   - date: March 2025
     event: Presentation at SIAM CSE
     link: https://www.siam.org/conferences-events/past-event-archive/cse25/

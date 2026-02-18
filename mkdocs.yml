@@ -1,9 +1,9 @@
 site_name: Joshua Eckels website
-site_url: https://eckelsjd.github.io/website/
+site_url: https://eckelsjd.github.io/
 site_author: Joshua Eckels
-repo_name: eckelsjd/website
-repo_url: https://github.com/eckelsjd/website
-copyright: Copyright &copy 2024 Joshua Eckels
+repo_name: eckelsjd/eckelsjd.github.io
+repo_url: https://github.com/eckelsjd/eckelsjd.github.io
+copyright: Copyright &copy 2026 Joshua Eckels
 
 theme:
   name: material

@@ -12,8 +12,8 @@ readme = "README.md"
 license = {text = "GPL-3.0"}
 
 [project.urls]
-Repository = "https://github.com/eckelsjd/website.git"
-Documentation = "https://eckelsjd.github.io/website/"
+Repository = "https://github.com/eckelsjd/eckelsjd.github.io.git"
+Documentation = "https://eckelsjd.github.io/"
 
 [tool.pylint.MASTER]
 ignore-paths = [ "^.venv/.*$", "^docs/*" ]
